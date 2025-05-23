@@ -108,7 +108,7 @@ ul li {
 
 header {
     background-color: black;
-    height: 60px;
+    height: 65px;
     align-content: center;
 }
 
@@ -121,4 +121,10 @@ li a {
     text-decoration: none;
     color: white;
     font-size: 18px;
+}
+
+.turva-nav-logo {
+    height: 50px;
+    width: 70px;
+    /* padding-top: 5px; */
 }
