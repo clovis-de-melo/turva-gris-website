@@ -99,3 +99,26 @@ ul li {
     width: 350px;
     padding-top: 25px;
 }
+
+#about {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(/src/img/background-image.png);
+}
+
+header {
+    background-color: black;
+    height: 60px;
+    align-content: center;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
